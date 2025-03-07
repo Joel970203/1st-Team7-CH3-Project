@@ -32,7 +32,7 @@
   - 배럴, 바디, 트리거를 개별적으로 스폰하며 **회전 애니메이션 적용**.
 
 ---
-<img width="525" alt="2222" src="https://github.com/user-attachments/assets/bed599d9-ebb6-4cbc-8c68-1d5d9894b9db" />
+<img width="1842" alt="3" src="https://github.com/user-attachments/assets/bed599d9-ebb6-4cbc-8c68-1d5d9894b9db" />
 
 
 <img width="1842" alt="3" src="https://github.com/user-attachments/assets/81ec8e00-4743-4758-9396-bf88df5ec663" />
