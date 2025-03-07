@@ -35,6 +35,9 @@
 <img width="525" alt="2222" src="https://github.com/user-attachments/assets/bed599d9-ebb6-4cbc-8c68-1d5d9894b9db" />
 
 
+<img width="1842" alt="3" src="https://github.com/user-attachments/assets/81ec8e00-4743-4758-9396-bf88df5ec663" />
+
+
 
 ## 🎒 아이템 및 인벤토리 시스템
 - `UCP_Inventory` 클래스를 활용한 **인벤토리 시스템** 개발.
@@ -45,6 +48,8 @@
   - 아이템을 마우스 **우클릭하여 장착 가능**.
 
 ---
+
+
 
 # 🏆 게임 주요 특징 🏆
 - **아이템 파츠**에 따라 달라지는 총기.
