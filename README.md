@@ -32,6 +32,9 @@
   - 배럴, 바디, 트리거를 개별적으로 스폰하며 **회전 애니메이션 적용**.
 
 ---
+<img width="525" alt="2222" src="https://github.com/user-attachments/assets/bed599d9-ebb6-4cbc-8c68-1d5d9894b9db" />
+
+
 
 ## 🎒 아이템 및 인벤토리 시스템
 - `UCP_Inventory` 클래스를 활용한 **인벤토리 시스템** 개발.
@@ -49,5 +52,9 @@
 - 최종 보스를 처치하고 **탈출 성공**을 목표로 함.
 
 ---
+
+
+<img width="1868" alt="4" src="https://github.com/user-attachments/assets/ed8b80bb-a18d-4c51-8341-85d065239dff" />
+
 
 📌 **[시연 영상 보기](https://youtu.be/TT6TkHSnpaQ)**
