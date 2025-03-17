@@ -34,14 +34,17 @@
   - 배럴, 바디, 트리거를 개별적으로 스폰하며 **회전 애니메이션 적용**.
 
 ---
-<img width="1842" alt="3" src="https://github.com/user-attachments/assets/bed599d9-ebb6-4cbc-8c68-1d5d9894b9db" />
+
+![123333](https://github.com/user-attachments/assets/ff0dbf97-bde0-4f31-8fc3-e984f80add94)
+
+
+
+<img width="1868" alt="4" src="https://github.com/user-attachments/assets/1a0a47f0-fdbb-43e8-b162-93e3c765d0cc" />
 
 
 
 
-
-<img width="1842" alt="3" src="https://github.com/user-attachments/assets/81ec8e00-4743-4758-9396-bf88df5ec663" />
-
+<img width="1842" alt="3" src="https://github.com/user-attachments/assets/7b4dd15d-04d3-4a1a-827e-ba85b3c142c2" />
 
 
 ## 🎒 아이템 및 인벤토리 시스템
@@ -54,7 +57,7 @@
 
 ---
 
-<img width="1842" alt="3" src="https://github.com/user-attachments/assets/43f1b085-b7a5-497f-bed6-7d400bb097d3" />
+
 
 
 # 🏆 게임 주요 특징 🏆
