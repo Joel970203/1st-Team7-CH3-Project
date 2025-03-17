@@ -12,7 +12,8 @@
   - **커스텀 총기 시스템**과 **인벤토리 시스템**을 직접 구현하여 유기적으로 연결.
   - FPS 게임에서의 시스템 이해와, 언리얼 엔진의 이해도를 높이고자 함.
 
-📌 **[시연 영상 보기]([https://youtu.be/TT6TkHSnpaQ](https://www.youtube.com/watch?v=SnrPjFUvvFs&ab_channel=%ED%95%9C%EC%83%81%ED%98%81))**
+📌 **[시연 영상 보기](https://www.youtube.com/watch?v=SnrPjFUvvFs&feature=youtu.be)**
+
 
 ---
 
